@@ -1,7 +1,7 @@
 # Processing and analyzing spatial data {#week7}
 
 ## Requirements
-
+    
 **Chapter 7** - Processing and analyzing spatial data [@Wilpen2014]
 
 ## Polygon address matching
