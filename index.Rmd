@@ -1,7 +1,7 @@
 --- 
-title: "5131 GIS & Public Health"
+title: "5131/6031 GIS & Public Health"
 bibliography: book.bib
-date: "Fall 2019"
+date: "Summer 2020"
 output:
   html_document:
     df_print: paged
