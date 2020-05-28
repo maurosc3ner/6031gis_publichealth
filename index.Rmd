@@ -8,7 +8,7 @@ output:
   pdf_document: default
 documentclass: book
 link-citations: yes
-description: 5131 GIS & Public Health
+description: 5131/6031 GIS & Public Health
 site: bookdown::bookdown_site
 biblio-style: apalike
 ---
