@@ -13,7 +13,7 @@ https://github.com/maurosc3ner/6031gis_publichealth.
 
 Dr. Diego F. Cuadros. Assistant Professor of Health Geography and Disease Modeling, University of Cincinnati. **Office:** 401 C Braunstein Hall, Main Campus. **Email:** diego.cuadros@uc.edu
 
-videos prepared by: Esteban Correa
+TA and videos prepared by Esteban Correa
 
 # Textbook
 
